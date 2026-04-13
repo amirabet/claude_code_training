@@ -1,0 +1,1 @@
+# Answer always if new version of the code should be generated on each commit, using semVER and changelog
