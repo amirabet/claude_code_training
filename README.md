@@ -1,5 +1,8 @@
 # UIGen
 
+> **Learning project for the [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) course by Anthropic.**  
+> This repository is used as a hands-on codebase to practice and learn [Claude Code](https://docs.anthropic.com/en/docs/claude-code) — Anthropic's agentic coding tool that lives in your terminal and understands your entire project.
+
 AI-powered React component generator with live preview.
 
 ## Prerequisites
@@ -65,3 +68,10 @@ Open [http://localhost:3000](http://localhost:3000)
 - Prisma with SQLite
 - Anthropic Claude AI
 - Vercel AI SDK
+
+## Learning Resources
+
+This project is part of the **[Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)** course. The course teaches how to use Claude Code to navigate, understand, and evolve real-world codebases with AI assistance.
+
+- Course: https://anthropic.skilljar.com/claude-code-in-action
+- Claude Code docs: https://docs.anthropic.com/en/docs/claude-code
