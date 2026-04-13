@@ -60,6 +60,10 @@ System prompt rules enforced for all AI generation:
 - Use `@/` import aliases for local files
 - Keep responses brief unless user asks for a summary
 
+## Versioning
+
+On every commit, always state whether a new version should be released. Use [SemVer](https://semver.org/) (MAJOR.MINOR.PATCH) and maintain a changelog entry describing what changed.
+
 ## Environment Variables
 
 | Variable | Required | Default |
