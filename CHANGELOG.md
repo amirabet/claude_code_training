@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [0.2.1] - 2026-04-15
+
+### Changed
+
+- Improved generation prompt (`src/lib/prompts/generation.tsx`) to produce higher-quality components:
+  - Removed "debug mode" instruction that allowed prompt injection via user messages.
+  - Added styling rules: consistent accent color palettes, depth via shadows/radius, interactive states (hover/focus/active/disabled), and smooth transitions on all clickable elements.
+  - Added requirement to use `lucide-react` for icons (already a project dependency).
+  - Added rules for realistic placeholder content, empty/loading/error states, responsive layouts, and semantic HTML with proper label associations.
+
 ## [0.2.0] - 2026-04-13
 
 ### Added
